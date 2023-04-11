@@ -2,7 +2,7 @@
 
 ## 🦸‍♀️ About me:
 - 🎓 Undergraduate in System Analysis and Development, and currently studying Full-Stack Development
-- 🚀 Back End Developer
+- 🚀 Currently Back End Developer (Java), future Full Stack Developer.
 
   ### 📊 GitHub Stats
  <div>
